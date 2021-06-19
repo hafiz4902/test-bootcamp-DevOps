@@ -1,11 +1,12 @@
-1. DevOps adalah kultur yang mengatasi masalah antara developer dengan operation
+1. DevOps adalah kultur yang mengatasi masalah antara developer dengan operation,
    flow DevOps :
-      1.continuous development
-      2.continuous integration
-      3.continuous testing 
-      4.continuous monitoring and feedback
-      5.continuous delivery
-      6.continuous deployment
+      1.Continuous integration
+      2.Continuous delivery
+      3.Continuous deployment 
+      4.Configuration Management
+      5.Infrastructure as a Code (IAAC)
+      6.Monitoring
+      7.Logging
 2. Hardware : 
       - komputer
       - Internet
