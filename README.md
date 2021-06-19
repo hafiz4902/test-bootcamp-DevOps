@@ -23,4 +23,12 @@
    - architecture yang digunakan oleh chef dan puppet yaitu client/server sedangkan yang lainnya menggunakan client only
 6. dengan menggunakan aplikasi monitoring collectd
 7. CollectD
-8. 
+
+keterangan:
+(1) Windows 10 
+(2) https://www.dicoding.com/blog/apa-itu-devops/
+https://www.biznetgio.com/news/mengenal-docker-kubernetes
+https://winpoin.com/cara-melihat-history-perintah-command-prompt/amp/
+https://blogs.masterweb.com/tool-monitoring-kinerja-server/
+https://www.biznetgio.com/en/news/mengenal-docker-kubernetes
+https://www.google.com/amp/s/www.lukmanlab.com/apa-itu-ansible/
