@@ -7,29 +7,20 @@
       5.Infrastructure as a Code (IAAC)
       6.Monitoring
       7.Logging
-2. Hardware : 
-      - komputer
-      - Internet
-      - kartu debit
-   Software :
-      - Browser
-      - akun aws
-3. git yaitu  version control sytem   gunanya untuk menulis kode projek kita untuk bisa di tulis dan di edit olrh team kerja kita.
-   cara kerjanya nanti kita buat repository dan masukkan kode projek kita dan nanti tim lain bisa mengedit dan mengambil kode 
+2. docker yaitu platform open-source yang memungkinkan penggunanya untuk membangun, menguji dan mendistribusikan aplikasi dalam environment yang terisolasi,
+   sedangkan kubernetes yaitu platform open-source yang digunakan untuk mengelola platform container seperti Docker pada sistem dan aplikasi,
+   persamaannya yaitu sama samauntuk mengolah container, sedangkan perbedannya sebagai berikut:
+   - Teknologi yang terlibat
+   - Arsitektur
+   - Load balancing
+   - skalabilitas
+3. ada cara yang pertama melihat riwayat dengan cara menekan f7 sedangkan yang ke 2 dengan menekan tombol arah atas
 4. CI dan CD ini penting untuk mendeteksi error code dan kerja sama antara developer dengan operation
-5. perintah di git:
-     - git init                                             = inisialisai git
-     - git add                                              = menambah file
-     - git commit -m "pesan"                                = menyimpan file yang ditambahkan
-     - git remote add origin <url>                          = menambah remote repository
-     - git push origin master                               = mengunggah file
-     - git pull origin master                               = mengunduh file
-     - git status                                           = menampilkan daftar file sudah di modifikasi
-     - git diff                                             = menampilkan komen yang merubah konten
-     - git log                                              = menampilkan commit commit dan perubahan
-     - git clone <url>                                      = mengclonning file 
-6. perintah clone,membuat branch baru dan mengunggahnya:
-     - git clone https://github.com                         = mengclonning file
-     - git remote add origin https://github.com/mysite.git  = menambah remote repository
-     - git push origin master                               = mengunggah file ke repository github.com
-7. reverse proxy yaitu salah satu proxy yang cara kerjanya kebalikannya dari client ke server
+5. perbedaanya:
+   - Type terraform menggunakan orchestration sedangkan yang lainnya menggunakan type config Mgmt
+   - Infrastructure yang digunakan terraform immutable sedangkan yang lainnya menggunakan infrastructure mutable
+   - language yang digunakan oleh chef dan ancible yaitu procedural sedangkan yang lainnya menggunakan language declarative
+   - architecture yang digunakan oleh chef dan puppet yaitu client/server sedangkan yang lainnya menggunakan client only
+6. dengan menggunakan aplikasi monitoring collectd
+7. CollectD
+8. 
